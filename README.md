@@ -1,4 +1,4 @@
-Last summer I finally defined my field of work. 
+This summer I finally defined my field of work. 
 Before that, I was interested in games, Unity, C#... 
 Then I decided I needed to be a full-stack developer. 
 I needed to be a team leader on my own and showcase my creativity across every aspect of a project. 
